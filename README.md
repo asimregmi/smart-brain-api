@@ -1,2 +1,1 @@
-# smart-brain-api
-Backend for Smart Brain Project
+# SmartBrain-api
